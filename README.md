@@ -5,7 +5,7 @@
 
 - 💬 Pergunte-me sobre **React, Typescript, SQL e Java**
 
-- 📫 Como me mandar mensagem **arthurandrad.23@gmail.com**
+- 📫 Contato: **arthurandrad.23@gmail.com**
 
 - ⚡ Fato curioso **Gosto de programar por causa de Legos**
 
