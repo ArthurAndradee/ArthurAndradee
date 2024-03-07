@@ -9,7 +9,7 @@
 
 - 📫 Contato: **arthurandrad.23@gmail.com**
 
-- ⚡ Fato curioso: **Gosto de programar por causa de ![Legos!]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png)]**
+- ⚡ Fato curioso: **Gosto de programar por causa de ![Legos!]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png])**
   
 </p>
 
