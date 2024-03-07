@@ -10,7 +10,7 @@
 - 📫 Contato: **arthurandrad.23@gmail.com**
 
 - ⚡ Fato curioso: **Gosto de programar por causa de Legos**
-- 
+  
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
