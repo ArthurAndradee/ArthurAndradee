@@ -9,7 +9,7 @@
 
 - 📫 Contato: **arthurandrad.23@gmail.com**
 
-- ⚡ Fato curioso **Gosto de programar por causa de Legos**
+- ⚡ Fato curioso: **Gosto de programar por causa de Legos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
