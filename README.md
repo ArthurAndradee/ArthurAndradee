@@ -9,7 +9,7 @@
 
 - 📫 Contato: **arthurandrad.23@gmail.com**
 
-- ⚡ Fato curioso: **Gosto de programar por causa de ![Legos!]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ALEGO_logo.svg&psig=AOvVaw1qlN3rh3n6RJ3EtR8UcrSc&ust=1709903135831000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDfjOab4oQDFQAAAAAdAAAAABAE])**
+- ⚡ Fato curioso: **Gosto de programar por causa de ![Legos!]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ALEGO_logo.svg&psig=AOvVaw1qlN3rh3n6RJ3EtR8UcrSc&ust=1709903135831000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDfjOab4oQDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png)])**
   
 </p>
 
