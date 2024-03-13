@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Arthur</h1>
 <h3 align="center">Um Programador Frontend e Java ambicioso de Porto Alegre</h3>
 
-- 🌱 Estou aprendendo **Servlets, Apache, Angular e jQuery**
+- 🌱 Estou aprendendo **Servlets, Angular e jQuery**
 
 - 🤝 Busco ajudar com **otimizações de código**
 
