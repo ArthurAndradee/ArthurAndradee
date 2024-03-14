@@ -5,7 +5,7 @@
 
 - 🤝 Busco ajudar com **otimizações de código e desenvolvimento de interfaces**
 
-- 💬 Pergunte-me sobre **React, Typescript e Java**
+- 💬 Pergunte-me sobre **React, Angular, Typescript e Java**
 
 - 📫 Contato: **arthurandrad.23@gmail.com**
 
