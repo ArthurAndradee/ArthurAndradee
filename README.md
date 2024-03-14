@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo **Servlets, Angular e jQuery**
 
-- 🤝 Busco ajudar com **otimizações de código**
+- 🤝 Busco ajudar com **otimizações de código e desenvolvimento de interfaces**
 
 - 💬 Pergunte-me sobre **React, Typescript e Java**
 
