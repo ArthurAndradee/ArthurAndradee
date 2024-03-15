@@ -38,15 +38,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=instagram&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=gmail&label=&color=darkred&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=whatsapp&label=&color=darkgreen&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ArthurAndradee/ArthurAndradee/output/snake.svg" alt="Snake animation" />
