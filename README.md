@@ -3,8 +3,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurAndradee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurAndradee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArthurAndradee&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurAndradee&radius=14&theme=github-dark&area=true&order=5&custom_title=Atividade%20Mensal&hide_border=true" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurAndradee&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -38,12 +39,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=instagram&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=gmail&label=&color=darkred&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=whatsapp&label=&color=darkgreen&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
 ###
@@ -51,13 +50,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ArthurAndradee/ArthurAndradee/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/22c55zdzyx47inv2l37lyf77y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c55zdzyx47inv2l37lyf77y&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
