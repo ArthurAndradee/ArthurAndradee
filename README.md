@@ -1,5 +1,5 @@
-<h2 align="left">E aí 👋! Meu nome é Arthur e sou de Porto Alegre</h2>
-<br>
+<h2 align="left">E aí 👋! Meu nome é Arthur e sou um programador de Porto Alegre</h2>
+
 ###
 
 <div align="left">
