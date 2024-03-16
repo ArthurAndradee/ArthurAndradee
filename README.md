@@ -1,6 +1,5 @@
 <h2 align="left">E aí 👋! Meu nome é Arthur e sou de Porto Alegre</h2>
-
-
+<br>
 ###
 
 <div align="left">
