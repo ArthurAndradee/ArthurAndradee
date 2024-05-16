@@ -31,5 +31,5 @@
 
 ###
 
-Avalie meu último projeto!
-![](https://github.com/ArthurAndradee/ArthurAndradee/blob/main/Shoe-Store%20Desktop.gif)
+<h4>Avalie meu último projeto!</h4>
+![]https://github.com/ArthurAndradee/ArthurAndradee/blob/main/Shoe-Store%20Desktop.gif
