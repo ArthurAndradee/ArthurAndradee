@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux"/>
+   <img width="12" />
 </div>
 
 ###
@@ -27,7 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurAndradee&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ArthurAndradee&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurAndradee&radius=14&theme=github-dark&area=true&order=5&custom_title=Atividade%20Mensal&hide_border=true" height="250" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
 ###
