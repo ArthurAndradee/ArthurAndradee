@@ -39,7 +39,7 @@
 ###
 
 <h3>Avalie meu último projeto!</h3>
-
+[Shoe-Store](https://shoe-store-plum-nine.vercel.app/)
 ![](https://github.com/ArthurAndradee/ArthurAndradee/blob/main/Shoe-Store%20Desktop.gif)
 
 <h3>Versão mobile:</h3>
