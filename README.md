@@ -41,6 +41,7 @@
 <h3>Avalie meus últimos projetos!</h3>
 
 [E-Commerce](https://shoe-store-plum-nine.vercel.app/)
+<br />
 [Serviço de Streaming](https://streaming-service-frontend-8moiie88t-arthurandradees-projects.vercel.app/)
 
 ![](https://github.com/ArthurAndradee/ArthurAndradee/blob/main/Shoe-Store%20Desktop.gif)
