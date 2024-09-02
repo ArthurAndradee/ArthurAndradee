@@ -38,7 +38,7 @@
 
 ###
 
-<h3>Avalie meu último projeto!</h3>
+<h3>Avalie meus últimos projetos!</h3>
 
 [E-Commerce](https://shoe-store-plum-nine.vercel.app/)
 [Serviço de Streaming](https://streaming-service-frontend-8moiie88t-arthurandradees-projects.vercel.app/)
