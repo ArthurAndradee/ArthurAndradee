@@ -42,7 +42,7 @@
 
 [E-Commerce](https://shoe-store-plum-nine.vercel.app/)
 <br />
-[Serviço de Streaming](https://stream-max.vercel.app/)
+[Plataforma de Streaming](https://stream-max.vercel.app/)
 
 ![](https://github.com/ArthurAndradee/ArthurAndradee/blob/main/Shoe-Store%20Desktop.gif)
 
