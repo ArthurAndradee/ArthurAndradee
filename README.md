@@ -1,4 +1,4 @@
-<h2 align="left">E aí 👋 Sou o Arthur, um desenvolvedor web atrás de oportunidades em Porto Alegre!</h2>
+<h2 align="left">E aí 👋 Sou o Arthur, um desenvolvedor atrás de oportunidades em Porto Alegre!</h2>
 
 ###
 
